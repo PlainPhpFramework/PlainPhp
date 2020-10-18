@@ -2,7 +2,7 @@
 /**
  * (c) 2020 Francesco Terenzani
  */
-namespace PlainPhp
+namespace PlainPhp;
 
 class Mail
 {
